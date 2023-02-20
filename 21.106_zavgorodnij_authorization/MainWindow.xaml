@@ -12,7 +12,7 @@
         <TextBox x:Name="login_tb"  HorizontalAlignment="Center" Margin="0,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" Height="25"/>
         <PasswordBox x:Name="password_pb" HorizontalAlignment="Center" Margin="0,248,0,0" VerticalAlignment="Top" Width="256" Height="24"/>
         <Button x:Name="LogIn_btn" Content="Login" HorizontalAlignment="Center" Margin="0,326,0,0" VerticalAlignment="Top" Width="201" Click="LogIn_btn_Click" Height="32"/>
-        <Label x:Name="result_lbl" Content="" HorizontalAlignment="Center" Margin="0,217,0,0" VerticalAlignment="Center" FontWeight="Bold"/>
+        <Label x:Name="result_lbl" Content="" HorizontalAlignment="Center" Margin="0,132,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
         <Label Content="Login:" HorizontalAlignment="Center" Margin="-300,189,0,0" VerticalAlignment="Top"/>
         <Label Content="Password:&#xD;&#xA;" HorizontalAlignment="Center" Margin="-310,248,0,0" VerticalAlignment="Top"/>
 
